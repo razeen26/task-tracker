@@ -11,12 +11,6 @@
       "day": "30 Apr 5:00 PM",
       "reminder": true,
       "id": 4
-    },
-    {
-      "text": "Madhu's Task",
-      "day": "28th Apr 3:00 PM",
-      "reminder": true,
-      "id": 5
     }
   ]
 }
